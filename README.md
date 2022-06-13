@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kanan1995
 - 👀 I’m interested in Data Science, Data Analysis
-- 🌱 I’m currently learning Programming languages, Data Management Tools and Machine Learning Models
+- 🌱 I’m currently Data Analyst and learning Programming languages, Data Management Tools and Machine Learning Models
 - 📫 How to reach me -  kenan.gulmemmedli@gmail.com
 
 <!---
